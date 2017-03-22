@@ -9,14 +9,14 @@
         android:layout_height="36dp"
         android:paddingTop="8dp"
         android:paddingBottom="8dp"
-        android:background="@color/colorAccent"
+        android:background="@color/kolor_miesiaca"
         android:orientation="horizontal">
         <ImageView
             android:id="@+id/previous_month"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_gravity="left"
-            android:contentDescription="@string/app_name"
+            android:contentDescription="@string/previous_month"
             android:src="@drawable/left_arrow"
             android:layout_weight="1"/>
         <TextView
@@ -34,7 +34,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_gravity="left"
-            android:contentDescription="@string/app_name"
+            android:contentDescription="@string/next_month"
             android:src="@drawable/right_arrow"
             android:layout_weight="1"/>
     </LinearLayout>

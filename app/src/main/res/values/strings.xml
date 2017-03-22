@@ -12,4 +12,6 @@
     <string name="sat">SAT</string>
     <string name="last_date">30</string>
     <string name="write_todays_succeses_below">Write your todays succeses below:</string>
+    <string name="previous_month">Previous Month</string>
+    <string name="next_month">Next Month</string>
 </resources>
